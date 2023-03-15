@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+    
+}
+.proddestacados{
+    max-width: 100%;
+    flex: 1;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    
+}
+.card{
+    
+    margin: 25px ;
+    margin-left: 40px;
+}
+.titulo1{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    margin: 20px;
+   
+}
+.card-img-top2{
+    height: 300px;
+}
+.imgenvios{
+    text-align: center;
+}
+.rojo{
+    background-color: red;
+}
+.blanco{
+    background-color: white;
+}
+
+
+  
